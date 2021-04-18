@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/3163782288_996521119_314825391.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_2281547781_1849016598.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_2999083527_847827883.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_3003310321_847827883.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_2690711924_3324606367.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_2823876929_698005913.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_3697818676_3159247149.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/drawingshapes/480p15/partial_movie_files/DrawingShapes/1495979052_1255708815_3825380939.mp4'
