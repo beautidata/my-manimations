@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/3163782288_2465722399_1552270747.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_698204615_227673193.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_3570694037_1788881447.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_3759384193_3234549130.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_292704011_776953074.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_256304661_457088949.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_525690623_992873604.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_2633059511_3319761512.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_3272346195_970184362.mp4'
+file 'file:/Users/carolgrrr/Desktop/beautidata/code/manim/my-manimations/media/videos/colorsample/480p15/partial_movie_files/ColorSample/1495979052_2258815618_4041917714.mp4'
