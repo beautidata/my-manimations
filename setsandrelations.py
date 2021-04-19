@@ -8,12 +8,12 @@ class Bijection(Scene):
 
         left_center = np.array((-3, -1, 0))
         left_ellipse = Ellipse(arc_center=left_center, height=4.0, color=BLUE)
-        left_ellipse_label = Text('C')
+        left_ellipse_label = Text('B')
         left_ellipse_label.move_to(2*UP+3*LEFT)
 
         right_center = np.array((3, -1, 0))
         right_ellipse = Ellipse(arc_center=right_center, height=4.0)
-        right_ellipse_label = Text('J')
+        right_ellipse_label = Text('D')
         right_ellipse_label.move_to(2*UP+3*RIGHT)
 
         self.play(FadeIn(left_ellipse))
@@ -35,6 +35,6 @@ class Bijection(Scene):
         self.play(FadeIn(line2))
         self.play(FadeIn(line3))
 
-        title = Text("BIJECTION betweeen C and J")
+        title = Text("BIJECTION betweeen B and D")
         title.move_to(3.1*UP)
         self.play(Create(title))
