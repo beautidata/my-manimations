@@ -30,6 +30,7 @@ class ColorSample(Scene):
         left_ellipse1 = Ellipse(arc_center=left_center1, height=2.0, color="#006DAA")
         self.play(FadeIn(left_ellipse1))
         
+        
         left_center2 = np.array((-2, 1, 0))
         left_ellipse2 = Ellipse(arc_center=left_center2, height=2.0, color="#006DAA")
         left_ellipse2.set_fill("#006DAA", opacity=0.25)
@@ -73,5 +74,9 @@ class ColorSample(Scene):
         right_ellipse2_bot = Ellipse(arc_center=right_center2_bot, height=2.0, color="#061A40")
         right_ellipse2_bot.set_fill("#061A40", opacity=1.0)
         self.play(FadeIn(right_ellipse2_bot))
+
+        text1 = Text('no fill')
+        text1.move_to(3*UP+4.5*LEFT)
+        self.play(FadeIn(text1))
         
     
